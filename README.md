@@ -70,3 +70,10 @@ mall-customer-segmentation/
 ```bash
 git clone https://github.com/your_username/mall-customer-segmentation.git
 cd mall-customer-segmentation
+```
+## Contact
+- 📧 Email: 1308903470@qq.com
+- 💬 WeChat: 13674300178
+- 🐙 GitHub: [github.com/liu1308903470](https://github.com/liu1308903470)
+---
+*Created by Liu Shiqi · September 2026*
