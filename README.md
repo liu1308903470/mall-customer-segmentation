@@ -1,3 +1,5 @@
+[← Back to My Profile](https://github.com/liu1308903470)
+
 # Mall Customer Value Segmentation and Precision Marketing Strategy Analysis
 
 ## 📌 Project Overview
